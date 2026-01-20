@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">JYP Nation</string>
+
+    <string name="group_name">Nama Grup</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>2PM</item>
+        <item>DAY6</item>
+        <item>TWICE</item>
+        <item>Stray Kids</item>
+        <item>ITZY</item>
+        <item>NiziU</item>
+        <item>Xdinary Heroes</item>
+        <item>NMIXX</item>
+        <item>NEXZ</item>
+        <item>Kickflip</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>2PM adalah boy group legendaris yang dikenal sebagai "Beast Idols" karena citra maskulin dan penampilan akrobatik mereka. Grup ini terdiri dari Jun. K, Nichkhun, Taecyeon, Wooyoung, Junho, dan Chansung. Lagu hits mereka termasuk "My House" dan "Hands Up".</item>
+        <item>DAY6 adalah band pop-rock yang debut pada tahun 2015. Mereka dikenal dengan lirik yang emosional dan musikalitas tinggi dimana setiap anggota berpartisipasi dalam produksi lagu. Lagu populer mereka antara lain "You Were Beautiful" dan "Zombie".</item>
+        <item>TWICE adalah girl group perwakilan Asia yang dibentuk melalui acara "Sixteen". Beranggotakan 9 orang, mereka dikenal dengan lagu-lagu ceria dan catchy yang selalu merajai tangga lagu, seperti "Cheer Up", "Fancy", dan "Feel Special".</item>
+        <item>Stray Kids adalah grup yang memproduksi musik mereka sendiri (self-producing idols) dengan genre yang kuat dan unik. Unit produser mereka, 3RACHA, menciptakan hits global seperti "God\'s Menu" dan "Maniac". Mereka memiliki fandom besar bernama STAY.</item>
+        <item>ITZY adalah girl group yang mengusung konsep percaya diri dan "Teen Crush". Debut dengan lagu "DALLA DALLA", mereka dikenal dengan penampilan dance yang sangat sinkron dan bertenaga. Pesan utama mereka adalah mencintai diri sendiri apa adanya.</item>
+        <item>NiziU adalah girl group Jepang global hasil proyek Nizi Project. Mereka meraih popularitas luar biasa di Jepang sebelum debut resmi dengan lagu "Make You Happy". Mereka dikenal dengan imej yang ceria, energik, dan membawa kebahagiaan bagi penggemar.</item>
+        <item>Xdinary Heroes (XH) adalah band rock di bawah label Studio J. Nama mereka singkatan dari "Extraordinary Heroes", dengan konsep bahwa siapa saja bisa menjadi pahlawan. Musik mereka memiliki nuansa rock yang kental dan unik, seperti lagu debut "Happy Death Day".</item>
+        <item>NMIXX adalah girl group yang dikenal dengan genre "MIXX POP", menggabungkan berbagai gaya musik dalam satu lagu. Member NMIXX diakui memiliki kemampuan vokal live dan tarian yang sangat kuat (All-rounder group). Lagu debut mereka adalah "O.O".</item>
+        <item>NEXZ adalah boy group global yang dibentuk dari Nizi Project Season 2. Nama NEXZ berarti "Next Z(G)eneration", menandakan ambisi mereka untuk memimpin generasi baru musisi dengan bakat dan pesona yang segar.</item>
+        <item>Kickflip (JYP LOUD) adalah boy group masa depan yang dibentuk melalui program survival SBS "LOUD". Dipilih langsung oleh J.Y. Park, grup ini terdiri dari anggota dengan bakat luar biasa dalam menari, menyanyi, dan memproduksi musik sendiri. Mereka merepresentasikan energi generasi baru yang kreatif dan siap mendobrak industri K-Pop global.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/twopm</item>
+        <item>@drawable/day6</item>
+        <item>@drawable/twice</item>
+        <item>@drawable/skz</item>
+        <item>@drawable/itzy</item>
+        <item>@drawable/niziu</item>
+        <item>@drawable/xh</item>
+        <item>@drawable/nmixx</item>
+        <item>@drawable/nexz</item>
+        <item>@drawable/kickflip</item>
+    </integer-array>
+</resources>
